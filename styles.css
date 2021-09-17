@@ -1,0 +1,14 @@
+body {
+  background-color: beige;
+  font-family: Verdana, sans-serif;
+}
+
+p {
+  color: darkcyan;
+  font-size: 1.2rem;
+}
+
+h1 {
+  color: darkgreen;
+  font-size: 1.7rem;
+}
